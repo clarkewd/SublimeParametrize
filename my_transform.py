@@ -18,7 +18,7 @@ class MyTransformer(sublime_plugin.TextCommand):
 
     def my_parametrize(self,s,char):
         r = s.lower()
-        r = re.sub('[^0-9a-zA-Z]+', char, s)
+        r = re.sub('[^0-9a-zA-Z]+', char, r)
         r = r.strip( '-' )
         return r
 
