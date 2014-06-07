@@ -1,0 +1,5 @@
+[
+    { "caption": "Parametrize", "command": "parametrize" },
+    { "caption": "Parametrize with Underscore", "command": "parametrize_with_underscore" }
+]
+
