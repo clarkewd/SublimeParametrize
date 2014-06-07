@@ -1,5 +1,7 @@
-Sublime Text Parametrize Command
+Sublime Parametrize
 ===================
+
+> ### A plugin to add a Parametrize Command to Sublime Text
 
 
 ### About
