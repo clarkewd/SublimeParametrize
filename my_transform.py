@@ -29,3 +29,6 @@ class ParametrizeCommand(MyTransformer):
 class ParametrizeWithUnderscoreCommand(MyTransformer):
     transformer = lambda s,self: self.my_parametrize(s,'_'),
 
+class ParametrizeWithSpace(MyTransformer):
+    transformer = lambda s,self: self.my_parametrize(s,' '),
+

@@ -1,5 +1,6 @@
 [
     { "caption": "Parametrize", "command": "parametrize" },
+    { "caption": "Undo Parametrize", "command": "parametrize_with_space" },
     { "caption": "Parametrize with Underscore", "command": "parametrize_with_underscore" }
 ]
 
